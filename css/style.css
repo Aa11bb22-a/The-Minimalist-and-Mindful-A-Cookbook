@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: #f8f9fa;
+}
+
+nav .navbar-brand {
+    font-weight: bold;
+    color: #333;
+}
+
+nav .nav-link {
+    color: #555;
+}
+
+nav .nav-link:hover {
+    color: #007bff;
+}
+
+.container {
+    max-width: 960px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+p {
+    color: #666;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+footer p {
+    color: #aaa;
+}
